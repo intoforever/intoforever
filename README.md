@@ -1,4 +1,4 @@
-### 작은 일일지라도 끝까지 고민하는 신입 개발자 한지현입니다.
+# 작은 일일지라도 끝까지 고민하는 신입 개발자 한지현입니다.
 Hi, there👋
 I'm Jihyun, and, recently, I have been really deep into IT field.
 Before starting to talk about my keen love for this field, let me introduce myself shortly.
