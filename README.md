@@ -55,7 +55,7 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 >
 > 기술 스택:  
 > Java 17 / JavaScript / Spring Boot 3.1 / Maven 3.9 / MyBatis 3.0  
-> Thymeleaf 3.2 / MariaDB 10.10 / MySQL workbench 8.0 / Spring Security 3.2  
+> MariaDB 10.10 / MySQL workbench 8.0 / Thymeleaf 3.2 / Spring Security 3.2  
 >
 > 담당:  
 > 댓글/친구/개인 피드/마이페이지/신고(멤버 페이지, 관리자 페이지)
