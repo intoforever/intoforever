@@ -47,7 +47,7 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 <br><br>
 
 ## 📚 Projects
-### 1. [OctaP](www.octap.co.kr)
+### 1. [OctaP](/www.octap.co.kr)
 > 테스트와 미션을 통해 자기 성향을 관리해나가는 서비스  
 > 기간: 2023.07 ~ 2023.11 (약 4개월)  
 > 인원: 팀 프로젝트(4인)
