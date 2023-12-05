@@ -17,7 +17,7 @@ Recently, I have been really deep into IT field.
 Before starting talking about my keen love for these technologies, let me introduce myself shortly.  
 I have been diverse work experienced in Education, NGO, Finance and etc, for approximately 6 years.
 Throughout my careers, I luckily could communicate with many people involved in various fields. Especially, among them, I was able to have many opportunities to co-work with ICT division through managing e-learning system and website renewal project(for the first time in ten years!).  
-Thanks for these chances, I could have been watching how IT skills can meet people's needs wonderfully and even change their life qualities directly and indirectly by side. These points have lead me make my career changes. I'm really excited to dive this fields!
+Thanks for these chances, I could have been watching how IT skills can meet people's needs wonderfully and even change their life qualities directly and indirectly by side. These points have lead me make my career changes. I'm really excited to dive this field!
 
 </br>
 
