@@ -1,4 +1,4 @@
-# 💙 About
+# 💙 Hello
 ### 작은 일일지라도 끝까지 고민하는 신입 개발자 한지현입니다.👩‍💻
 
 - 교육, NGO, 금융 등 다양한 분야에서 일하면서 ICT팀과 협업할 기회를 많이 접하게 되었고<br>
@@ -11,7 +11,7 @@ Throughout my careers, I luckily could communicate with many people involved in 
 Thanks for these chances, I could have been watching how IT skills can meet people's needs wonderfully and even change their life qualities directly and indirectly by side. These points have lead me make my career changes. I'm really excited to dive this fields!
 <br><br>
 
-# 📚 Skills
+# 📚 Once I've used
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
