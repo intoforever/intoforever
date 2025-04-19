@@ -1,7 +1,5 @@
 # 🐣한지현(Jihyun Han)🐣
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintoforever%2Fportfolio&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</br>
 
 ## ✏️ Intro
 ### 작은 일일지라도 끝까지 고민하는 신입 개발자입니다.
@@ -23,7 +21,6 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 
 ## 📞 Contacts
 - 이메일: startingfrom33@gmail.com
-- 블로그: https://startingfrom33.tistory.com
 - 깃헙: https://github.com/intoforever
 
 </br>
