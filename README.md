@@ -2,7 +2,7 @@
 
 
 ## ✏️ Intro
-### 작은 일일지라도 끝까지 고민하는 신입 개발자입니다.
+### 작은 일일지라도 끝까지 고민하는 개발자입니다.
 
 - 어떤 일이 주어져도 그 안에서 배울 점을 찾고 성장하는 것을 좋아합니다.
 - 원하는 결과가 나올 때까지 계속해서 기능을 고민하고 추가하는 것을 좋아합니다.
@@ -22,7 +22,7 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 - 이메일: startingfrom33@gmail.com
 - 블로그: https://velog.io/@intoforever
 - 깃헙: github.com/intoforever
-- 링크드인: linkedin.com/in/startingfrom33
+- 링크드인: linkedin.com/in/intoforever
 
 </br>
 
@@ -42,11 +42,38 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+
 </div>
 <br><br>
 
 ## 📚 Projects
-### 1. OctaP(옥타프)
+### 1. Evergreen (진행 중)
+> 반복되는 교회 대표기도 알림을 자동화하는 스케줄링 시스템  
+> 링크: [Velog 기록 보기](https://velog.io/@intoforever)  
+> 기간: 2024.05 ~ 진행 중  
+> 인원: 개인 프로젝트
+>
+> 기술 스택:  
+> Java 21 / Spring Boot 3 / Gradle 8 / JPA / PostgreSQL  
+> Docker / Redis / RabbitMQ / Kafka / React  
+>
+> 주요 내용:  
+> 1. ✨ 반복 업무 자동화: 매주 카카오톡으로 기도자에게 자동 알림 발송  
+> 2. 📅 정기 스케줄 기반 시스템: 요일/시간 기준 자동 트리거  
+> 3. 💬 사용자 친화적 인터페이스: 별도 앱 없이 카카오톡 메시지로 알림 전달  
+> 4. 🧪 백엔드 아키텍처 실험: Docker, Redis, RabbitMQ, Kafka 등 주요 기술 직접 도입/비교  
+>
+> 담당:
+> 프로젝트 전반 기획, 설계, 기능 구현, 배포, 테스트
+> 
+> [구현 및 설계 상세 보기](https://github.com/intoforever/Evergreen)
+
+---
+
+### 2. OctaP(옥타프)
 > 테스트와 미션을 통해 자기 성향을 관리해나가는 서비스  
 > 링크: www.octap.co.kr  
 > 기간: 2023.07 ~ 2023.11 (약 4개월)  
@@ -58,6 +85,5 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 >
 > 담당:  
 > 댓글/친구/개인 피드/마이페이지/신고(멤버 페이지, 관리자 페이지)
-> 
 > 
 > [프로젝트 상세 설명](https://github.com/intoforever/OctaP) 참고
