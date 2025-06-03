@@ -20,6 +20,7 @@ Thanks for these chances, I could have been watching how IT skills can meet peop
 
 ## 📞 Contacts
 - 이메일: startingfrom33@gmail.com
+- 블로그: https://velog.io/@intoforever
 - 깃헙: github.com/intoforever
 - 링크드인: linkedin.com/in/startingfrom33
 
